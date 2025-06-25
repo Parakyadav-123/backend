@@ -1,0 +1,15 @@
+{
+  "name": "parak-all-folder",
+  "version": "1.0.0",
+  "description": "backend study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backnd"
+  ],
+  "author": "parak",
+  "license": "ISC"
+}
